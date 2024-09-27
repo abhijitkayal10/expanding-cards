@@ -6,7 +6,7 @@ This project features an interactive and visually appealing card expansion effec
 - **Hover to Expand:** Cards expand smoothly when the user hovers over an image.
 - **Responsive Design:** Works seamlessly on different screen sizes, from mobile to desktop.
 - **Customizable:** Easily modify card content, animations, and styles.
-- **Lightweight:** Minimal code with no dependencies, making it fast to load.
+- **Lightweight:** Minimal code with no dependencies, making it fast to load
 
 ## Technologies Used
 - **HTML5**: Markup for structuring the content.

